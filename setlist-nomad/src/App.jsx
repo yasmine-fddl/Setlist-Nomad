@@ -199,7 +199,7 @@ Object.keys(DICT).forEach(l=>{Object.keys(DICT.English).forEach(k=>{if(DICT[l][k
 
 /* ---------- ARTIST THEMES (distinct palettes) ---------- */
 const THEMES = {
-  "Ariana Grande":{screen:"linear-gradient(160deg,#F3E9FF,#FBE7F1 60%,#FFF1F6)",panel:"#FFFFFF",border:"#F4A9CE",accent:"#C77DFF",headerBg:"#EBD6FB",headerText:"#5B2A86",chip:"#F6EAFF",dark:false},
+  "Arana Grande":{screen:"linear-gradient(160deg,#F3E9FF,#FBE7F1 60%,#FFF1F6)",panel:"#FFFFFF",border:"#F4A9CE",accent:"#C77DFF",headerBg:"#EBD6FB",headerText:"#5B2A86",chip:"#F6EAFF",dark:false},
   "Taylor Swift":{screen:"linear-gradient(160deg,#F7ECCF,#F2E2BC 60%,#EBDCB6)",panel:"#FFFDF4",border:"#C8A24A",accent:"#A6791C",headerBg:"#E7D097",headerText:"#5A3F08",chip:"#F4E8C5",dark:false},
   "Billie Eilish":{screen:"linear-gradient(160deg,#13181A,#1B2123 60%,#0E1213)",panel:"#1F2628",border:"#9DFF00",accent:"#9DFF00",headerBg:"#13362C",headerText:"#9DFF00",chip:"#283226",dark:true},
   "Olivia Rodrigo":{screen:"linear-gradient(160deg,#E4DBFB,#D9CDF7 60%,#CFC0F4)",panel:"#F8F4FF",border:"#3B2F8F",accent:"#5B3FD6",headerBg:"#3F2E9E",headerText:"#FFFFFF",chip:"#E7DDFB",dark:false},
