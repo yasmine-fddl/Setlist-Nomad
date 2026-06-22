@@ -1,0 +1,11 @@
+Comment push sur github
+git add . (ajoute toutes les modifs)
+git commit -m "message"
+git push
+
+Si t'as la flemme de push et d'attendre que vercel se mette à 
+jour (attendre 1min) :
+npm run dev
+ouvre un lien mais bloque le terminal (plus possible d'ecrire
+les trucs avec git). Pour arreter : ctrl+Comment
+
